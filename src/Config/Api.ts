@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // export const API_URL = "http://localhost:5454";
-export const API_URL = "https://qejhvsdtxfpx.ap-southeast-1.clawcloudrun.com";
+export const API_URL = "https://pxjzljhkkjka.ap-southeast-1.clawcloudrun.com";
 
 export const api = axios.create({
   baseURL: API_URL, 
